@@ -1,0 +1,6 @@
+implicit
+numpy
+pandas
+plotly
+umap-learn
+scipy
